@@ -1,4 +1,4 @@
-#!/usr/bin/python
+
 import psycopg2
 
 class DatabaseConnection:
